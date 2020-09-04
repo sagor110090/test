@@ -8,7 +8,8 @@ Vue.use(VueAxios, axios);
 
 
 import "bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css"; 
+import './assets/css/style.css';
 
 
 // Import component

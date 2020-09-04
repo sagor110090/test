@@ -2413,20 +2413,6 @@ img {
     border-radius: 33px;
 }
 
-/*sticky header position*/
-.sticky.is-sticky {
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    z-index: 1000;
-    width: 100%;
-}
-
-body {
-    min-height: 1200px;
-}
-
 nav {
     background: #fff;
     min-height: 85px;

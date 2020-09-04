@@ -404,3 +404,15 @@
 <script>
 export default {};
 </script>
+ 
+
+<style scoped>
+.navbar {
+    overflow: hidden;
+    /* background-color: #333; */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+</style>
